@@ -1,0 +1,1 @@
+printf("x % y = %5.4lf\n", fmod(x, y));
